@@ -5,7 +5,7 @@
 -- insert into myentity (id, field) values(3, 'field-3');
 -- alter sequence myentity_seq restart with 4;
 
-insert into oculos(id, referencia, cor, tamanho) values(1, 'C12A3', 'A2', '145');
-insert into oculos(id, referencia, cor, tamanho) values(2, 'B2023', 'C6', '145');
-insert into oculos(id, referencia, cor, tamanho) values(3, 'B2023', 'C5', '140');
-insert into oculos(id, referencia, cor, tamanho) values(4, 'A62G3', 'B2', '50');
+insert into oculos(referencia, cor, tamanho) values('C12A3', 'A2', '145');
+insert into oculos(referencia, cor, tamanho) values('B2023', 'C6', '145');
+insert into oculos(referencia, cor, tamanho) values('B2023', 'C5', '140');
+insert into oculos(referencia, cor, tamanho) values('A62G3', 'B2', '50');
