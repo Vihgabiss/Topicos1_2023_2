@@ -9,3 +9,7 @@ insert into oculos(referencia, cor, tamanho) values('C12A3', 'A2', '145');
 insert into oculos(referencia, cor, tamanho) values('B2023', 'C6', '145');
 insert into oculos(referencia, cor, tamanho) values('B2023', 'C5', '140');
 insert into oculos(referencia, cor, tamanho) values('A62G3', 'B2', '50');
+insert into marca(nome, id_oculos) values('Ray-Ban', 1);
+insert into marca(nome, id_oculos) values('Ray-Ban', 4);
+insert into marca(nome, id_oculos) values('GUESS', 2);
+insert into marca(nome, id_oculos) values('Tommy Hilfiger', 3);
